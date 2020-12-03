@@ -17,4 +17,4 @@ happyCustomHolidayTo('New Year', 'everyone')
 function holidayCountdown(days, holiday) {
   return (`It's ${days} days until ${holiday}!`)
 }
-holidayCountdowns("Mother's Day", 20)
+holidayCountdowns(20, "Mother's Day")
